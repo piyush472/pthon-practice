@@ -1,2 +1,2 @@
 # pthon-practice
-python basics programs
+python basics programs for practice...
